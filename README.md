@@ -28,8 +28,8 @@ python rag_qa.py --query "Your question here"
 👤 Author
 K L Mandara
 Summer Research Intern, DRDO Young Scientist Lab, Bengaluru
-📧 klmandara5@gmail.com
-🔗 LinkedIn Profile
+📧 klmandara5@gmail.com (gmail)
+🔗 LinkedIn Profile ( K L MANDARA)
 
 
 
